@@ -4,7 +4,7 @@
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM!
 
 # Support me
-never expected but greatly appreciated <3, leave a star if you end up trying a script too!
+never expect anything more than a star for whatever I release, but if you're feeling extra awesome here my Ko-Fi link <3
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
