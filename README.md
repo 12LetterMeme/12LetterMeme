@@ -7,7 +7,7 @@
 <a href="https://steamcommunity.com/id/12LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429853302805/steam.png" height="50" /></a>
 <a href="https://twitch.tv/12LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034430130159636/twitch_1.png" height="50" /></a>
 <a href="https://twitter.com/LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429215797288/twitter_1.png" height="50" /></a>
-<a href="12LetterMeme#0001 << can't link discord?" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429534548038/discord_2.png" height="50" /></a>
+<a href="https://12LetterMeme#0001 << can't link discord?.com" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429534548038/discord_2.png" height="50" /></a>
 </p>
 
 # About me
