@@ -1,5 +1,3 @@
-### Hello!
-
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM!
 
