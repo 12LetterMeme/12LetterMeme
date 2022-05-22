@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=75&lines=Thanks+for+stopping+by;Graphic+design+background;Learning+all+this+coding+stuff;Continue+being+awesome;Have+an+Uh-Mazing+day!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Graphic+design+background;Learning+all+this+coding+stuff;Continue+being+awesome;Have+an+Uh-Mazing+day!" alt="animated" />
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCFFGU7M51WGZwuwDQo1cTVw" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034430604111882/youtube_1.png" height="50" /></a>
@@ -19,6 +21,7 @@ Never expect anything more than a star for whatever I release, but if you're fee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # My info
 
 ![](https://komarev.com/ghpvc/?username=12LetterMeme)
