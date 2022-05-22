@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=751DFF&center=true&vCenter=true&lines=Welcome+to+12LetterMeme's+Github;Thanks+for+joining+me;Continue+being+awesome!)](https://git.io/typing-svg)
+
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge!
 
