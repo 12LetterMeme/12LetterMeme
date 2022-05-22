@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thanks+for+stopping+by;Graphic+design+background;Learning+all+this+coding+stuff;Continue+being+awesome;Have+an+Uh-Mazing+day!)](https://git.io/typing-svg) 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=75&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCFFGU7M51WGZwuwDQo1cTVw" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034430604111882/youtube_1.png" height="50" /></a>
 <a href="https://steamcommunity.com/id/12LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429853302805/steam.png" height="50" /></a>
