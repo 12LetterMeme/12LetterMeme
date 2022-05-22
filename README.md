@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+# About me
+I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM!
 
 # Support me
 never expected but greatly appreciated <3, leave a star if you end up trying a script too!
