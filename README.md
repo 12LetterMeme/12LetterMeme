@@ -15,7 +15,7 @@
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge!
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername&count={1})
 
 # Support me
 Never expect anything more than a star for whatever I release, but if you're feeling extra awesome here my Ko-Fi link <3
