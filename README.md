@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# Support me (never expected but greatly appreciated <3)
+# Support me
+never expected but greatly appreciated <3, leave a star if you end up trying a script too!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
 # My info
