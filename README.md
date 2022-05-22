@@ -4,7 +4,7 @@
 <a href="https://steamcommunity.com/id/12LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429853302805/steam.png" height="50" /></a>
 <a href="https://twitch.tv/12LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034430130159636/twitch_1.png" height="50" /></a>
 <a href="https://twitter.com/LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429215797288/twitter_1.png" height="50" /></a>
-<a href="12LetterMeme#0001" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429534548038/discord_2.png" height="50" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429534548038/discord_2.png" height="50" /></a>
 
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge!
