@@ -9,19 +9,16 @@
 <a href="https://twitter.com/LetterMeme" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429215797288/twitter_1.png" height="50" /></a>
 <a href="https://12LetterMeme#0001 << can't link discord?.com" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978034429534548038/discord_2.png" height="50" /></a>
 </p>
-
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge!
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername&unique={true|1|on|yes})
-
 # Support me
 Never expect anything more than a star for whatever I release, but if you're feeling extra awesome here my Ko-Fi link <3
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 # My info
 
 ![](https://komarev.com/ghpvc/?username=12LetterMeme)
