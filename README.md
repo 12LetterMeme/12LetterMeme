@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6519DD&lines=Thanks+for+stopping+by;Graphic+design+background;Learning+all+this+coding+;continue+being+awesome;Have+an+Uh-Mazing+day!!)](https://git.io/typing-svg)
 
-<a href="https://youtube.com/12LetterMeme" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://media.discordapp.net/attachments/978030121896271872/978030384732319744/youtube.png)" height="100" /></a>
+<a href="(https://www.youtube.com/channel/UCFFGU7M51WGZwuwDQo1cTVw)" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/978030121896271872/978030384732319744/youtube.png" height="100" /></a>
 
 # About me
 I'm 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge!
