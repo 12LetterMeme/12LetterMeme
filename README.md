@@ -22,7 +22,7 @@ Never expect anything more than a star for whatever I release, but if you're fee
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a <img align="center" src="https://giphy.com/gifs/bender-7xkxbhryQO7hm" height="400" /></a>
+<a href="" target="blank"><img align="center" src="https://giphy.com/gifs/bender-7xkxbhryQO7hm" height="400" /></a>
 
 # My info
 
