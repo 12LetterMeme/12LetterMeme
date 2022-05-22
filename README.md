@@ -22,7 +22,7 @@ Never expect anything more than a star for whatever I release, but if you're fee
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
-<img src="https://giphy.com/gifs/bender-7xkxbhryQO7hm" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # My info
 
