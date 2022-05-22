@@ -22,6 +22,9 @@ Never expect anything more than a star for whatever I release, but if you're fee
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W17MX9X)
 
+![Jokes Card](https://giphy.com/gifs/bender-7xkxbhryQO7hm)
+
+
 # My info
 
 ![](https://komarev.com/ghpvc/?username=12LetterMeme)
