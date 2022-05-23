@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=30&lines=Nil;QBCore+=+Nil;QBCore+=+exports['qb-core']:GetCoreObject()" alt="animated" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=30&lines=Nil;QBCore+=+Nil;QBCore+=+exports['qb-core']:GetCoreObject();print('Hello+World!')" alt="animated" />
 </p>
 
 <p align="center">
