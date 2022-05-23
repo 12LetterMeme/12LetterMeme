@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=30&lines=12LetterMeme;12LetterMeme+is+great;12LetterMeme+is+cool;12LetterMeme+is+Uh-Mazing" alt="animated" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6519DD&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Graphic+design+background;Learning+all+this+coding+stuff;Continue+being+awesome;Have+an+Uh-Mazing+day!" alt="animated" />
 </p>
 
