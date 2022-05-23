@@ -31,7 +31,7 @@ Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been le
 
 >I've played guitar for well over a decade
 
->What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Carpentry/Manufactoring
+>What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Building Stuff
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername&unique={true|1|on|yes})
 # Support me
