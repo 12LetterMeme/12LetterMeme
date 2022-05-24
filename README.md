@@ -25,7 +25,7 @@ Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been le
 
 >I have worked with multiple cast of the marvel avengers
 
->Worked for huge companies such as Disney and MLSE
+>Worked for huge companies such as Disney, MLSE, CIMCO Refrigeration and Pita Pit
 
 >Worked, lived and went to school in 2 countries
 
