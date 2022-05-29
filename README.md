@@ -29,7 +29,7 @@ Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been le
 
 >Worked, lived and went to school in 2 countries
 
->I've played guitar for well over a decade
+>I've played guitar for well over a decade, played sports since I could walk and would probably do weirdly good or bad at never have I ever
 
 >What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Building Stuff
 
