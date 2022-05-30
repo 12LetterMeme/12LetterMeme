@@ -34,6 +34,13 @@ Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been le
 >What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Building Stuff
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername&unique={true|1|on|yes})
+
+# My Releases
+
+[QB-Core Camera](https://github.com/12LetterMeme/qb-camera)
+
+[QB-Core Police Vehicle Shop](https://github.com/12LetterMeme/qb-policeshop)
+
 # Support me
 Never expect anything more than a star for whatever I release, but if you're feeling extra awesome here my Ko-Fi link <3
 
