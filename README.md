@@ -29,8 +29,6 @@ Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been le
 
 >What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Building Stuff
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12lettername&unique={true|1|on|yes})
-
 # My Releases
 Support will be not given for these scripts
 [![qb-camera copy](https://user-images.githubusercontent.com/91357757/173150666-7be2d602-f2af-48ef-9ae9-76bd7a6f1274.png)](https://github.com/12LetterMeme/qb-camera)
