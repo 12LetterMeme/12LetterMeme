@@ -15,17 +15,17 @@
 </p>
 
 # About me
-Hello! I'm Mitchell but online I go by 12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more indepth background in graphic design, photography and video editing but learning some coding has definatly been a super fun challenge! Schooling background in automotive service management, buiness sales/marketing/event management and service leadership lead me to work nowhere in my feild.
+Hello! I'm  12LetterMeme, my recent hobby has been learning to dev in FiveM! I have a way more in-depth background in graphic design, photography, and video editing but learning some coding has definitely been a super fun challenge! My schooling background in automotive service management, business sales/marketing/event management, and service leadership led me to work nowhere in my field.
 
 # fun Facts about me
 
->I have worked with multiple cast of the marvel avengers
+>I have worked with multiple cast of the Marvel Avengers
 
 >Worked for huge companies such as Disney, MLSE, CIMCO Refrigeration and Pita Pit
 
->Worked, lived and went to school in 2 countries
+>Worked, lived, and went to school in 2 countries
 
->I've played guitar for well over a decade, played sports since I could walk and would probably do weirdly good or bad at never have I ever
+>I've played guitar for well over a decade, played sports since I could walk, and would probably do weirdly good or bad at never have I ever
 
 >What I'm into/hobbies: Physical Fitness, Photography, Developing, Video Editing, Graphic Design, Outdoors, Cars, Firearms, Building Stuff
 
